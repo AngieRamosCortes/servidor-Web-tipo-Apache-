@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Web Framework - Static Page</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Apache type servere</h1>
+        <p>This is a static HTML page served by the web framework.</p>
+        
+        <h2>Framework Features:</h2>
+        <ul>
+            <li>HTTP Server</li>
+            <li>IoC Container</li>
+            <li>Custom Annotations</li>
+            <li>Static File Serving</li>
+        </ul>
+        
+        <h2>Test the Framework:</h2>
+        <div class="links">
+            <a href="/" class="button">Home Page</a>
+            <a href="/greeting" class="button">Greeting Service</a>
+            <a href="/counter" class="button">Request Counter</a>
+        </div>
+        
+        <div class="test-section">
+            <h3>Interactive Test:</h3>
+            <button onclick="testGreeting()" class="button">Test Greeting API</button>
+            <div id="result"></div>
+        </div>
+    </div>
+    
+    <script src="script.js"></script>
+</body>
+</html>
