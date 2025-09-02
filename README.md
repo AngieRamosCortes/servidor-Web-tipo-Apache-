@@ -2,6 +2,8 @@
 # Servidor Web Tipo Apache con IoC
 
 Proyecto el cual consiste en construir un servidor Web tipo Apache en Java, capaz de entregar páginas HTML e imágenes PNG, y proveer un framework IoC para aplicaciones web basadas en POJOs. El servidor atiende múltiples solicitudes no concurrentes y permite demostrar las capacidades reflexivas de Java.
+<img width="1919" height="753" alt="image" src="https://github.com/user-attachments/assets/fedeea6e-927b-47f5-9432-e298bb5b786a" />
+
 
 ## Comenzando
 
