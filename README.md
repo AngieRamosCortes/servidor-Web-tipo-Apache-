@@ -3,6 +3,7 @@
 
 Proyecto el cual consiste en construir un servidor Web tipo Apache en Java, capaz de entregar páginas HTML e imágenes PNG, y proveer un framework IoC para aplicaciones web basadas en POJOs. El servidor atiende múltiples solicitudes no concurrentes y permite demostrar las capacidades reflexivas de Java.
 <img width="1919" height="753" alt="image" src="https://github.com/user-attachments/assets/fedeea6e-927b-47f5-9432-e298bb5b786a" />
+<img width="1919" height="580" alt="image" src="https://github.com/user-attachments/assets/50fcbd42-8518-4697-893a-4f7ab007437b" />
 <img width="1919" height="467" alt="image" src="https://github.com/user-attachments/assets/b0f5e0bb-8e9a-4cd3-8a67-624cdab30eb0" />
 <img width="1919" height="472" alt="image" src="https://github.com/user-attachments/assets/89650937-ba1e-4ce9-9058-6b387b22bb08" />
 <img width="1919" height="417" alt="image" src="https://github.com/user-attachments/assets/fc088a72-981c-4180-b1fa-9948929adc2e" />
